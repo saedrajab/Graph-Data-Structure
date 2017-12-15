@@ -1,6 +1,6 @@
 # Graph-Data-Structure
 
-Algorithms and Data Structures implemented
+Algorithms and Data Structures implemented in C++
 #
 The program is a solution for a dicrete math project.
 #
